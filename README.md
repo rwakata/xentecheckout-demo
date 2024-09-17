@@ -1,2 +1,2 @@
 # Xentejs
-Static Js file for creating Xente buttons
+Sample HTML Page for web chckout
